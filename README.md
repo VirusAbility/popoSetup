@@ -9,11 +9,17 @@
 
 #### 1.msi 설치 이전
 1-1. 윈도우+R키를 눌러 %appdata%에 접근한다.
+
 ![image](https://user-images.githubusercontent.com/47059530/121855301-23569a80-cd2e-11eb-8b99-289674102f12.png)
+
 1-2. .minecraft 폴더를 백업해둔다.
+
 ![image](https://user-images.githubusercontent.com/47059530/121855880-cdcebd80-cd2e-11eb-8d41-0cc4d772c4a4.png)
+
 1-3. .minecraft 폴더 내부를 삭제한다.
+
 ![image](https://user-images.githubusercontent.com/47059530/121856009-f8207b00-cd2e-11eb-9285-dacd21798bcc.png)
+
 
 #### 2. msi 설치
 2-1. github에서 msi 파일을 설치한다.
