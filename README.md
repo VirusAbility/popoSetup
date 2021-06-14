@@ -23,6 +23,7 @@
 
 #### 2. msi 설치
 2-1. 아래 링크에서 msi 파일을 설치한다.
+
 https://drive.google.com/file/d/1Z-BRwySArNKpbTMZOVGGjHDX2y1z-RZ7/view?usp=sharing
 
 2-2. msi파일을 실행한다.
