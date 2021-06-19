@@ -60,7 +60,7 @@ https://drive.google.com/file/d/1Z-BRwySArNKpbTMZOVGGjHDX2y1z-RZ7/view?usp=shari
 ![image](https://user-images.githubusercontent.com/47059530/121878663-f1056700-cd46-11eb-8e4f-cbd0e08c24f2.png)
 
 3-6. 설정>리소스팩 에 들어가 포포놀이터-리소스팩 을 적용시킨다.
-**(미 적용 확인시 서버 자체에서 밴 처리 됩니다. 자동 감지기가 있으니 이점 유의하시길 바랍니다.)**
+# **(미 적용 확인시 서버 자체에서 밴 처리 됩니다. 자동 감지기가 있으니 이점 유의하시길 바랍니다.)**
 
 ![image](https://user-images.githubusercontent.com/47059530/121878729-01b5dd00-cd47-11eb-9138-186d1f866edf.png)
 
