@@ -12,11 +12,11 @@
 
 ![image](https://user-images.githubusercontent.com/47059530/121855301-23569a80-cd2e-11eb-8b99-289674102f12.png)
 
-1-2. .minecraft 폴더를 백업해둔다.
+1-2. .minecraft 폴더를 백업해둔다. (복사해 두거나 압축)
 
 ![image](https://user-images.githubusercontent.com/47059530/121855880-cdcebd80-cd2e-11eb-8d41-0cc4d772c4a4.png)
 
-1-3. .minecraft 폴더 내부를 삭제한다.
+1-3. .minecraft 폴더를 삭제한다.
 
 ![image](https://user-images.githubusercontent.com/47059530/121856009-f8207b00-cd2e-11eb-9285-dacd21798bcc.png)
 
@@ -42,6 +42,10 @@ https://drive.google.com/file/d/1Z-BRwySArNKpbTMZOVGGjHDX2y1z-RZ7/view?usp=shari
 3-2. 로그인 한다.
 
 ![image](https://user-images.githubusercontent.com/47059530/121877989-2d849300-cd46-11eb-951c-2f471f568b57.png)
+
+3-2+. 아래와 같은 화면이 표시될시 런처를 끄고 다시 실행하면 해결된다.
+
+![image](https://user-images.githubusercontent.com/47059530/122691718-5cca6100-d26c-11eb-8f10-b26aceaa945d.png)
 
 3-3. 설치설정>New Installation에 들어가서 1.12.2 forge 설치 설치설정을 만든다.
 
@@ -75,6 +79,7 @@ https://drive.google.com/file/d/1Z-BRwySArNKpbTMZOVGGjHDX2y1z-RZ7/view?usp=shari
 3-8. POPO서버에 들어간다.
 
 ![image](https://user-images.githubusercontent.com/47059530/121879621-09c24c80-cd48-11eb-9415-c404f5349486.png)
+
 
 ***
 
